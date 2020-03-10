@@ -1,0 +1,22 @@
+postgres
+[download] https://dejavuqa.tistory.com/16
+[alter password] https://brunch.co.kr/@hjinu/3
+
+sudo npm init -y
+sudo npm install nodemon
+sudo npm i --save express
+
+sudo npm i --save webpack webpack-cli
+sudo npm i --save @babel/core @babel/preset-react babel-loader
+sudo npm i --save react react-dom
+
+# sudo npm i --save @babel/core @babel/preset-react babel-loader webpack webpack-cli react react-dom
+
+package.json
+
+"scripts": {
+  "start": "nodemon server.js"
+}
+
+
+dashboard: https://github.com/creativetimofficial/material-dashboard-react
